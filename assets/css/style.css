@@ -1,0 +1,47 @@
+ body {
+   background-image: url("../images/t.jfif");
+   background-repeat: no-repeat;
+   background-size: 120%;
+ }
+
+ thead {
+   background-color: #808000;
+   color: #fff;
+   text-align: center;
+ }
+
+ h3 {
+   text-align: center;
+   margin-bottom: 5px;
+ }
+
+ .myTable1 {
+   background-color: #808000;
+   color: #fff;
+   text-align: center;
+ }
+
+ #container {
+   background-color: #808000;
+   color: #fff;
+ }
+
+ .jumbotron {
+   background-color: #808000;
+   color: #fff;
+ }
+
+ .tabletable-condensed {
+   border: 5px solid;
+   border-color: #808000;
+ }
+
+ #panel {
+   border: 5px solid;
+   border-color: #808000;
+ }
+
+ #panel2 {
+   background-color: #808000;
+   color: #fff;
+ }
